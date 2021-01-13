@@ -1,0 +1,24 @@
+{
+  "name": "js-with-tdd",
+  "version": "1.0.0",
+  "description": "Library with TDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloedums/js-with-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Paulo Marques <pauloedums@gmail.com> (http://www.pauloedums.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauloedums/js-with-tdd/issues"
+  },
+  "homepage": "https://github.com/pauloedums/js-with-tdd#readme"
+}
