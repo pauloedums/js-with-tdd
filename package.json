@@ -16,7 +16,7 @@
     "library"
   ],
   "author": "Paulo Marques <pauloedums@gmail.com> (http://www.pauloedums.com/)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/pauloedums/js-with-tdd/issues"
   },
