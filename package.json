@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Library with TDD.",
   "main": "index.js",
-  "private": true,
+  "private": false,
   "scripts": {
-    "postinstall": "husky install",
+    "postinstall": "npx husky install .husky",
     "prepush": "npm run lint",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "npx eslint src/*.js",
