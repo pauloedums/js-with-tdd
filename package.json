@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepush": "npm run lint",
     "lint": "npx eslint src/*.js",
-    "lint:fix": "npx eslint src/*.js --fix"
+    "lint:fix": "npx eslint src/*.js --fix",
+    "prepush": "npm run lint"
   },
   "repository": {
     "type": "git",
